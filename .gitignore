@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.spec
+
+.build/
+build/
+dist/
+
+settings.ini
+*.log
+*.bak
+*.tmp
+
+# Local production phonebooks may contain personal data.
+/grandstream.xml
+/yealink.xml

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>6</id>
+		<name>Work</name>
+	</pbgroup>
+	<pbgroup>
+		<id>7</id>
+		<name>Friends</name>
+	</pbgroup>
+	<Contact>
+		<id>1</id>
+		<FirstName>Иван Петрович</FirstName>
+		<LastName>Кузнецов</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>100</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2</id>
+		<FirstName>Анна Сергеевна</FirstName>
+		<LastName>Орлова</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>101</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3</id>
+		<FirstName></FirstName>
+		<LastName>Склад</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>102</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>4</id>
+		<FirstName>Мария</FirstName>
+		<LastName>Волкова</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>103</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>5</id>
+		<FirstName>Техническая</FirstName>
+		<LastName>Поддержка</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>104</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+</AddressBook>

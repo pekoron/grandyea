@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+	<DirectoryEntry>
+		<Name>Волкова М.</Name>
+		<Telephone>103</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кузнецов И.П.</Name>
+		<Telephone>100</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Орлова А.С.</Name>
+		<Telephone>101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Поддержка Т.</Name>
+		<Telephone>104</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Склад</Name>
+		<Telephone>102</Telephone>
+	</DirectoryEntry>
+</YealinkIPPhoneDirectory>
