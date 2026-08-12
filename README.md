@@ -15,28 +15,3 @@
 - формирует имя Yealink в виде `Фамилия`, `Фамилия И.` или `Фамилия И.О.`.
 
 Пути к XML-файлам задаются в настройках приложения.
-
-## Сборка
-
-Для сборки нужны Windows x64 и Python 3.8 с Tkinter.
-
-Установить PyInstaller:
-
-```powershell
-python -m pip install -r requirements-build.txt
-```
-
-Запустить сборку:
-
-```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\build.ps1 -Python python
-```
-
-Перед сборкой скрипт запускает тесты. Готовый файл будет создан здесь:
-
-```text
-dist\GrandYea.exe
-```
-
-GitHub Actions выполняет ту же сборку при отправке тега `v*` и добавляет
-`GrandYea.exe` в новый GitHub Release.
